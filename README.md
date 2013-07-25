@@ -1,15 +1,15 @@
 PeerGaming - Thesis
 ===================
 
-The bachelor thesis about PeerGaming.
-
-Date: 2013-07-24
-
-
-Title:
-
 _Creating a Client-Side Multiplayer Gaming Framework for the Web,
 which handles Distributed Logic on Multiple Systems in "Real-Time"._
+
+
+## Info
+
+The bachelor thesis about PeerGaming, created during its development until v0.5.
+
+Date: __2013-07-24__
 
 
 ## Changelog
