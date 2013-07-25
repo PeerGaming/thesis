@@ -6,7 +6,7 @@ The bachelor thesis about PeerGaming.
 Date: 2013-07-24
 
 
-## Original Title
+Title:
 
 _Creating a Client-Side Multiplayer Gaming Framework for the Web,
 which handles Distributed Logic on Multiple Systems in "Real-Time"._
